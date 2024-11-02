@@ -7,7 +7,7 @@
 ```  
 - THINKPAD X250 
 
-- CPU：Intel Core i7-5600U i7-5500u i5-5300U i5-5200U
+- CPU：Intel Core i7-5600U
 
 - GPU：Intel HD 5500 Graphics 
 
