@@ -1,11 +1,11 @@
 # ThinkPad X250 MacOS Catalina 10.15.4 [![website](https://img.shields.io/badge/(◕‿◕)-my_website-white)](https://monolithft.neocities.org/)
 
+<img align="right" src="/img/os.png" alt=" Thinkpad x250 macOS" width="470">
 
-<img align="right" src="/img/os.png" alt=" Thinkpad x250 macOS" width="400">
 
-## my spec
 ```  
-- THINKPAD X250 
+MY SPEC:
+
 
 - CPU：Intel Core i7-5600U
 
@@ -16,12 +16,13 @@
 - LAN：Intel7265AC
 
 - MODEL: X250。
-
 ```
-<img align="middle" src="/img/thibk.jpg" alt=" Thinkpad x250" width="400">
 
 
-## 
+<img align="right" src="/img/think.jpg" alt=" Thinkpad x250" width="280">
+
+
+<br>
 
 <details>  
 <summary><strong>work </strong></summary>
@@ -51,8 +52,10 @@
 
 </details>
 
-<br>
+<br><br>
 
 [![macOS](https://img.shields.io/badge/macOS-10.15-black)](https://developer.apple.com/documentation/macos-release-notes)
+
 [![Hackintosh](https://img.shields.io/badge/Hackinosh-(◕▿◕)-gray)]()
+
 [![ThinkPad](https://img.shields.io/badge/ThinkPad-T450s.X250.T450-white)](https://www.lenovo.com/)
